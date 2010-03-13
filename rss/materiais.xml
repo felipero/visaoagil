@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Biblioteca Visão Ágil</title>
+        <link>http://www.visaoagil.com</link>
+        <description>Grupo Visão Ágil</description>
+        <item>
+            <title>Integração Contínua The Whole Picture</title>
+            <pubDate>06/05/2008</pubDate>
+            <link>http://www.phidelis.com.br/blogs/alissonvale/post/Integracao-Continua---The-Whole-Picture.aspx</link>
+            <description>Alisson Vale</description>
+        </item>
+        <item>
+            <title>Utilizando métricas de código para melhoria no design de software</title>
+            <pubDate>06/05/2008</pubDate>
+            <link>http://www.phidelis.com.br/blogs/alissonvale/post/Utilizando-metricas-de-codigo-para-melhoria-no-design-de-software.aspx</link>
+            <description>Alisson Vale</description>
+        </item>
+        <item>
+            <title>Contando a História de uma Iteração com um Relatório A3</title>
+            <pubDate>06/05/2008</pubDate>
+            <link>http://www.phidelis.com.br/blogs/alissonvale/post/Contando-a-Historia-de-uma-Iteracao-com-um-Relatorio-A3.aspx</link>
+            <description>Alisson Vale</description>
+        </item>
+        <item>
+            <title>O Básico do planejamento ágil</title>
+            <pubDate>24/06/2009</pubDate>
+            <link>http://www.fratech.net/comunidade/exibir/50</link>
+            <description>Felipe Rodrigues</description>
+        </item>
+        <item>
+            <title>Manifesto TI 2.0</title>
+            <pubDate>11/03/2010</pubDate>
+            <link>http://www.fratech.net/comunidade/exibir/51</link>
+            <description>Felipe Rodrigues</description>
+        </item>
+        <item>
+            <title>Domain Driven Design - Quando o gavião come a barata?</title>
+            <pubDate>05/09/2008</pubDate>
+            <link>http://www.fratech.net/comunidade/exibir/43</link>
+            <description>Felipe Rodrigues</description>
+        </item>
+        <item>
+            <title>Projetos ágeis - Levantamento Inicial</title>
+            <pubDate>17/02/2009</pubDate>
+            <link>http://www.fratech.net/comunidade/exibir/46</link>
+            <description>Felipe Rodrigues </description>
+        </item>
+        <item>
+            <title>Utilizando metáforas no design de software</title>
+            <pubDate>20/02/2009</pubDate>
+            <link>http://www.fratech.net/comunidade/exibir/47</link>
+            <description>Felipe Rodrigues </description>
+        </item>
+        <item>
+            <title>Test Driven Development & Design Evolutivo</title>
+            <pubDate>02/04/2009</pubDate>
+            <link>http://www.fratech.net/comunidade/exibir/48</link>
+            <description>Felipe Rodrigues </description>
+        </item>
+        <item>
+            <title>Conflitos entre conceitos (Uma visão sobre as implementações de DDD)</title>
+            <pubDate>06/05/2008</pubDate>
+            <link>http://www.fratech.net/comunidade/exibir/41</link>
+            <description>Felipe Rodrigues </description>
+        </item>
+        <item>
+            <title>Qualidade interna e externa de um software e seu código: Como garantir a entrega de um projeto de software com um bom nível de manutenibilidade </title>
+            <pubDate>06/05/2008</pubDate>
+            <link>http://josepaulopapo.blogspot.com/2008/04/qualidade-cdigo-manutenibilidade.html</link>
+            <description>José Papo</description>
+        </item>
+        <item>
+            <title>Dissertação: Uma linguagem de padrões para automação de projetos de desenvolvimento ágil de software com ênfase na plataforma J2EE  </title>
+            <pubDate>06/05/2008</pubDate>
+            <link>http://josepaulopapo.blogspot.com/2008/03/dissertacao-mestrado-jose-papo.htm</link>
+            <description>José Papo</description>
+        </item>
+        <item>
+            <title>Dissertação de XP </title>
+            <pubDate>06/05/2008</pubDate>
+            <link>http://www.improveit.com.br/xp/dissertacaoXP.pdf</link>
+            <description>Vinícius Manhães Teles </description>
+        </item>
+        <item>
+            <title>Testes com Mock Objects</title>
+            <pubDate>06/05/2008</pubDate>
+            <link>http://www.improveit.com.br/xp/praticas/tdd/mock_objects</link>
+            <description>Vinícius Manhães Teles </description>
+        </item>
+        <item>
+            <title>Cobertura de Testes com Emma</title>
+            <pubDate>06/05/2008</pubDate>
+            <link>http://www.improveit.com.br/xp/praticas/tdd/emma</link>
+            <description>Vinícius Manhães Teles </description>
+        </item>
+        <item>
+            <title>Cobertura de Testes com o RCov</title>
+            <pubDate>06/05/2008</pubDate>
+            <link>http://www.improveit.com.br/xp/praticas/tdd/rcov</link>
+            <description>Vinícius Manhães Teles </description>
+        </item>
+        <item>
+            <title>Palestra Experiências Ágeis com Extreme Programming </title>
+            <pubDate>06/05/2008</pubDate>
+            <link>../downloads/biblioteca/XP.pdf</link>
+            <description>Vinícius Manhães Teles </description>
+        </item>
+        <item>
+            <title>Palestra:  Falando sobre Scrum</title>
+            <pubDate>28/03/2008</pubDate>
+            <link>../downloads/biblioteca/axmagnoFalandoScrum.pdf</link>
+            <description>Alexandre Magno</description>
+        </item>
+        <item>
+            <title>Palestra: As armadilhas do Scrum</title>
+            <pubDate>28/03/2008</pubDate>
+            <link>../downloads/biblioteca/axmagnoScrumArmadilhas.pdf</link>
+            <description>Alexandre Magno</description>
+        </item>
+        <item>
+            <title>Tutorial:  FDD Em Uma Casca De Banana - Um guia de rápido aprendizado para a
+            Feature-Driven Development</title>
+            <pubDate>28/03/2008</pubDate>
+            <link>../downloads/biblioteca/axmagno_FDDEmUmaCascaDeBanana.pdf</link>
+            <description>Alexandre Magno</description>
+        </item>
+        <item>
+            <title>Palestra: Agilidade com Responsabilidade </title>
+            <pubDate>28/03/2008</pubDate>
+            <link>http://heptagon.com.br/ppt/Adail-AgilResp-SpinBrasil2007.zip</link>
+            <description>Adail Muniz Retamal</description>
+        </item>
+        <item>
+            <title>Palestra: Gestão Ágil de Projetos Para Técnicos e Gerentes </title>
+            <pubDate>28/03/2008</pubDate>
+            <link>http://heptagon.com.br/ppt/Adail-GAP-BorCon-2007.zip</link>
+            <description>Adail Muniz Retamal</description>
+        </item>
+        <item>
+            <title>Palestra: Qualidade e Ferramentas </title>
+            <pubDate>28/03/2008</pubDate>
+            <link>http://heptagon.com.br/ppt/Adail-TempoReal-Qualidade%20e%20Ferramentas-2007-04-14.zip</link>
+            <description>Adail Muniz Retamal</description>
+        </item>
+        <item>
+            <title>Palestra: TLS: TOC, Lean  Six Sigma </title>
+            <pubDate>28/03/2008</pubDate>
+            <link>http://heptagon.com.br/ppt/Adail-TLS-2007-03-07.zip</link>
+            <description>Adail Muniz Retamal</description>
+        </item>
+        <item>
+            <title>Palestra: Teoria das Restrições (TOC): Um Toque Diferente </title>
+            <pubDate>28/03/2008</pubDate>
+            <link>http://heptagon.com.br/ppt/Adail-TOC-PMI-SP-2006-10-28.zip</link>
+            <description>Adail Muniz Retamal</description>
+        </item>
+        <item>
+            <title>Palestra: Desenvolvimento e Gerenciamento Ágeis  </title>
+            <pubDate>28/03/2008</pubDate>
+            <link>http://heptagon.com.br/ppt/Adail-DesGerAgil-BorCon-2006.zip</link>
+            <description>Adail Muniz Retamal</description>
+        </item>
+        <item>
+            <title>Palestra: Mini-Curso de FDD (Feature-Driven Development)  </title>
+            <pubDate>28/03/2008</pubDate>
+            <link>http://heptagon.com.br/ppt/Adail-Mini-Curso-FDD.zip</link>
+            <description>Adail Muniz Retamal</description>
+        </item>
+        <item>
+            <title>Artigo Introdução à TOC ( Teoria das Restrições)  </title>
+            <pubDate>28/03/2008</pubDate>
+            <link>http://heptagon.com.br/?q=node/4</link>
+            <description>Adail Muniz Retamal</description>
+        </item>
+        <item>
+            <title>Artigo Teoria das Restrições para Resolver Conflitos no Mundo Real? </title>
+            <pubDate>28/03/2008</pubDate>
+            <link>http://heptagon.com.br/toc-resolver-conflitos</link>
+            <description>Adail Muniz Retamal</description>
+        </item>
+        <item>
+            <title>Artigo TOC em Cores </title>
+            <pubDate>28/03/2008</pubDate>
+            <link>http://heptagon.com.br/toc-em-cores</link>
+            <description>Adail Muniz Retamal</description>
+        </item>
+        <item>
+            <title>Palestra: O Paradigma Ágil</title>
+            <pubDate>28/03/2008</pubDate>
+            <link>http://www.phidelis.com.br/blogs/alissonvale/file.axd?file=Apresentacao_O_Paradigma_Agil.pdf</link>
+            <description>Alisson Vale</description>
+        </item>
+        <item>
+            <title>Palestra: Projetos Ágeis e os 12 Pontos de Alavancagem Sistêmica</title>
+            <pubDate>28/03/2008</pubDate>
+            <link>http://www.phidelis.com.br/blogs/alissonvale/file.axd?file=Projetos+%c3%81geis+e+os+12+Pontos+de+Alavancagem+Sist%c3%aamica.pdf</link>
+            <description>Alisson Vale</description>
+        </item>
+        <item>
+            <title>Palestra: Estudo de Caso: Projeto Phidelis</title>
+            <pubDate>28/03/2008</pubDate>
+            <link>http://www.alissonvale.eti.br/download/xp%20-%20phidelis%20-%20estudo%20de%20caso.ppt</link>
+            <description>Alisson Vale</description>
+        </item>
+        <item>
+            <title>Scrum FAQ em português</title>
+            <pubDate>28/03/2008</pubDate>
+            <link>http://www.4shared.com/file/34824139/61f8668f/Scrum_FAQ_pt_BR.html</link>
+            <description>Victor Hugo Germano</description>
+        </item>
+        <item>
+            <title>Apresentação da Semana Acadêmica do Senac RS</title>
+            <pubDate>28/03/2008</pubDate>
+            <link>http://www.4shared.com/file/41049869/dada20eb/Desenvolvimento_gil.html</link>
+            <description>Victor Hugo Germano</description>
+        </item>
+        <item>
+            <title>Introdução à User Stories</title>
+            <pubDate>28/03/2008</pubDate>
+            <link>http://www.4shared.com/file/38247082/efd21fa7/Introducao_a_User_Stories.html</link>
+            <description>Victor Hugo Germano</description>
+        </item>
+        <item>
+            <title>Palestra: JUnit – Implementanto Testes Unitários em Java(2005)</title>
+            <pubDate>28/03/2008</pubDate>
+            <link>../downloads/biblioteca/JUnit_ImplementantoTestesUnitariosEmJava.pdf</link>
+            <description>Manoel Pimentel</description>
+        </item>
+        <item>
+            <title>Palestra: Gestão Ágil  com FDD (Feature-Driven Development)</title>
+            <pubDate>28/03/2008</pubDate>
+            <link>../downloads/biblioteca/GestaoAgilcomFDD.pdf</link>
+            <description>Manoel Pimentel</description>
+        </item>
+        <item>
+            <title>Palestra: eXtremeProgramaming-Conceitos e Casos Práticos(SEPAI 2004)</title>
+            <pubDate>28/03/2008</pubDate>
+            <link>../downloads/biblioteca/eXtremeProgramaming-Palestra_SEPAI2004.pdf</link>
+            <description>Manoel Pimentel</description>
+        </item>
+        <item>
+            <title>Artigo: Implementando Pair Programming em sua equipe)</title>
+            <pubDate>28/03/2008</pubDate>
+            <link>http://www.devmedia.com.br/articles/viewcomp.asp?comp=1694</link>
+            <description>Manoel Pimentel</description>
+        </item>
+        <item>
+            <title>Artigo: Fórmula Ágil - Conhecendo a essência dos processos ágeis através das corridas de Fórmula 1</title>
+            <pubDate>28/03/2008</pubDate>
+            <link>http://www.devmedia.com.br/articles/viewcomp.asp?comp=5868</link>
+            <description>Manoel Pimentel</description>
+        </item>
+        <item>
+            <title>Artigo: O Papa-léguas e o Coiote - Crônica sobre dois perfis existentes em um projeto de desenvolvimento </title>
+            <pubDate>28/03/2008</pubDate>
+            <link>http://www.devmedia.com.br/articles/viewcomp.asp?comp=2692</link>
+            <description>Manoel Pimentel</description>
+        </item>
+        <item>
+            <title>Artigo: JavaDoc –  Implementando documentação  através do NetBeans </title>
+            <pubDate>28/03/2008</pubDate>
+            <link>http://www.devmedia.com.br/articles/viewcomp.asp?comp=2495</link>
+            <description>Manoel Pimentel</description>
+        </item>
+        <item>
+            <title>Artigo: O que é melhor?  Kung-Fú ou Karatê?  – Crônica com alguns devaneios sobre projetos de software</title>
+            <pubDate>28/03/2008</pubDate>
+            <link>http://www.devmedia.com.br/articles/viewcomp.asp?comp=32465</link>
+            <description>Manoel Pimentel</description>
+        </item>
+        <item>
+            <title>Artigo: O Pink e o Cérebro  – Crônica sobre a difícil arte da simplicidade em projetos de software</title>
+            <pubDate>28/03/2008</pubDate>
+            <link>http://www.devmedia.com.br/articles/viewcomp.asp?comp=4073</link>
+            <description>Manoel Pimentel</description>
+        </item>  
+        <item>
+            <title>Artigo: Planejando seu projeto com eXtreme Programming – Parte I </title>
+            <pubDate>28/03/2008</pubDate>
+            <link>http://www.devmedia.com.br/articles/viewcomp.asp?comp=4273</link>
+            <description>Manoel Pimentel</description>
+        </item>          
+        <item>
+            <title>Artigo: Planejando seu projeto com eXtreme Programming – Parte II </title>
+            <pubDate>28/03/2008</pubDate>
+            <link>http://www.devmedia.com.br/articles/viewcomp.asp?comp=4423</link>
+            <description>Manoel Pimentel</description>
+        </item> 
+        <item>
+            <title>Artigo: O pensamento enxuto para o desenvolvimento ágil </title>
+            <pubDate>28/03/2008</pubDate>
+            <link>http://www.devmedia.com.br/articles/viewcomp.asp?comp=5051</link>
+            <description>Manoel Pimentel</description>
+        </item>   
+    </channel>
+</rss>

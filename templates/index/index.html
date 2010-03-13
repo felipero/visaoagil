@@ -1,0 +1,140 @@
+{% extends "../base.html" %}
+
+{% block content %}
+<div class="background">
+<img border="0" src="/static/banners/internos/midle.png">
+<table width="100%">
+    <tr valign="top">
+        <td align="left" width="50%">
+            <form method="get" action="http://br.groups.yahoo.com/subscribe/visaoagil">
+                <table cellspacing="0" cellpadding="2" border="0" width="95%">
+                    <tr>
+                        <td class="titulo" colspan="1" align="center" valign="middle">
+                            <img border="0" src="/static/icons/up.png" width="22" height="22"/>
+                        </td>
+                        <td class="titulo" colspan="1" align="left" valign="middle">
+                            Participe de nossa comunidade
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <font face="Arial" size="2">
+                                A proposta da Visão Ágil é ser mais do que uma revista, acreditamos que a colaboração
+                                ativa e democrática entre nossa equipe editorial.
+                                <strong><a href="/inscricao">Mais informações...</a></strong>
+                            </font>
+
+                        </td>
+                    </tr>
+                </table>
+            </form>
+            <br>
+            <table cellspacing="0" cellpadding="2" border="0" width="95%">
+                <tr>
+                    <td class="titulo" colspan="1" align="center" valign="middle">
+                        <img border="0" src="/static/icons/kaddressbook.png" width="22" height="22"/>
+                    </td>
+                    <td class="titulo" colspan="1" align="left" valign="middle">
+                        Biblioteca Pública e Gratuita
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <font face="Arial" size="2">
+                            Conheça aqui nossa biblioteca pública contendo vários materiais como artigos famosos,
+                            palestras, textos e blogs sobre XP, FDD, Scrum, OpenUP, UML em Cores,
+                            Modelagem Ágil, Testes e outros assuntos quentes sobre metodologias ágeis em geral.
+                            <br>
+                        </font>
+                    </td>
+                </tr>
+            </table>
+            <br>
+            <table cellspacing="0" cellpadding="2" border="0" width="95%">
+                <tr>
+                    <td class="titulo" colspan="1" align="center" valign="middle">
+                        <img border="0" src="/static/icons/toggle_log.png" width="22" height="22"/>
+                    </td>
+                    <td class="titulo" colspan="1" align="left" valign="middle">
+                        Edição Atual <a href="/edicoes">(ver todas...)</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <p align="center">
+                            <a href="/static/downloads/edicoes/VA_05.rar">
+                                <img src="/static/imagens/capas/CapaVA_05.jpg" width="210" height="290" border="0">
+                            </a>
+                            <br>
+                            <font face="Arial" size="2">
+                                <a href="/static/downloads/edicoes/VA_05.rar">Baixar a Edição 05</a>
+                            </font>
+                            <br>
+                            <br>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td align="right" width="50%">
+            <table width="100%" cellspacing="0" cellpadding="2" border="0" width="95%">
+                <tr>
+                    <td class="titulo" colspan="1" align="center" valign="middle">
+                        <img border="0" src="/static/icons/kmixdocked.png" width="22" height="22"/>
+                    </td>
+                    <td class="titulo" colspan="1" align="left" valign="middle">
+                        Leia os últimos artigos em nosso Blog
+                    </td>
+                </tr>
+                {% for post in posts %}
+                <tr>
+                    <td class="tituloSimples" colspan="2">
+                        <a target="_new" href="{{post.link}}">
+                            {{post.title}}
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="linhaSimples" colspan="2">
+                        {{post.description}}
+                        <br>
+                        <a target="_new" href="{{post.link}}">
+                            Leia mais...
+                        </a>
+                        <br>
+                    </td>
+                </tr>
+                {% endfor %}
+            </table>
+            <table width="100%" cellspacing="0" cellpadding="2" border="0" width="95%">
+                <tr>
+                    <td class="titulo" colspan="1" align="center" valign="middle">
+                        <img border="0" src="/static/icons/kmixdocked.png" width="22" height="22"/>
+                    </td>
+                    <td class="titulo" colspan="1" align="left" valign="middle">
+                        Acontece em nossa comunidade
+                    </td>
+                </tr>
+                {% for msg in msgs %}
+                <tr>
+                    <td class="tituloSimples" colspan="2">
+                        <a target="_new" href="{{msg.link}}">
+                            {{msg.title}}
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="linhaSimples" colspan="2">
+                        {{msg.description}}
+                        <br>
+                        <a target="_new" href="{{msg.link}}">
+                            Leia mais...
+                        </a>
+                        <br>
+                    </td>
+                </tr>
+                {% endfor %}
+            </table>
+        </td>
+    </tr>
+</table>
+{% endblock %}

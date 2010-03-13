@@ -1,0 +1,80 @@
+/* 
+Document   : tabelas
+Created on : 10/03/2008, 21:44:15
+Author     : Manoel
+Description:
+Purpose of the stylesheet follows.
+*/
+
+/* 
+TODO customize this sample style
+Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+body {
+    text-align: center;
+    background-image: url(/static/imagens/fundo_pequeno.gif);
+}
+
+table#main_table {
+    width: 600px;
+}
+
+div.background {
+    background-image: url(/static/banners/internos/HomeLeft.png);
+}
+
+p {
+    padding: 10px;
+}
+
+.titulo {
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: bold; /*background-color: #9999ff;*/
+    background-color: #fb691a;
+}
+
+.tituloSimples {
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.linha {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px; /*background-color: #ffff99;*/
+    border-bottom-style: solid;
+    border-bottom-color: #ffffff;
+}
+
+.linhaSimples {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    border-bottom-style: dotted;
+    border-bottom-width: 2px;
+    border-bottom-color: blue;
+}
+
+.sombraDireita {
+    background-image: url(../banners/internos/shadowRight.png);
+}
+
+.sombraEsquerda {
+    background-image: url(../banners/internos/shadowLeft.png);
+    background-repeat: repeat-y;
+}
+
+.sombraTop {
+    background-image: url(../banners/internos/shadowTop.png);
+}
+
+.teste {
+    color: #ffcc33;
+
+    margin-top: 2px;
+    margin-bottom: 2px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+

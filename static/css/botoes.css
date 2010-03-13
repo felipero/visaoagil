@@ -1,0 +1,132 @@
+/* 
+    Document   : botoes
+    Created on : 31 de Outubro de 2006, 14:19
+    Author     : MPimentel
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+ul { 
+	/*width:35em;*/
+	margin:0; 
+	padding:0; 
+     
+	}
+ul li {
+	list-style:none; 
+	display:inline;
+	}
+ul li a{
+	/*float:left;*/
+	/*width:5.0em;*/
+	/*font:0.68em  Verdana, Arial, Helvetica, sans-serif;*/
+        font-weight: normal;
+	text-align: center;
+	/*padding:0 0.2em 0.2em  0;*/
+	border-width:0.1em;
+	/* border-style:solid; */
+	text-decoration:none;
+	}
+ul li a:hover{
+	color:#036;
+        /*border-style:solid; 
+	border-color:#000 #fafafa #fafafa #000
+        border-color:#000 #000 #000 #000; ;*/
+        font-weight: bold;
+	}
+
+
+ul.normal a{
+	/*background:#BCEE68;*/
+        background:#008B45;
+	color: #036;
+	border-color:#fff #2eac2e #2eac2e #fff;
+        /*border-color:border-color:#000#ac822e #ac822e #fff;*/
+	}
+
+ul.bege a{
+	background:#f6f1e8;
+	color:#036;
+	border-color:#fff #ac822e #ac822e #fff;
+	}
+ul.bege a:hover{
+	background:#960;
+	}
+
+ul.verde a{
+	/*background:#BCEE68;*/
+        background: #D9E9D9;
+	color:#036;
+	/*border-color:#fff #2eac2e #2eac2e #fff;*/
+        /*border-color:#BCEE68 #BCEE68 #BCEE68 #BCEE68;*/
+         border-color:#D9E9D9 #D9E9D9 #D9E9D9 #D9E9D9;
+	}
+ul.verde a:hover{
+	/*background:#090;*/
+       /*background:#BCEE68;*/
+        background: #D9E9D9;
+        font-weight: bold;
+	}
+ul.ama a{
+	background: #FF0;
+        display:block; 
+	color:#036;
+        font-family: arial;
+        font-size: 12px;
+	/*border-color:#fff #2eac2e #2eac2e #fff;*/
+        border-color:#BCEE68 #BCEE68 #BCEE68 #BCEE68;
+	}
+ul.ama a:hover{
+	/*background:#090;*/
+        color:#036;
+        background: #FF0;
+        font-family: arial;
+        font-size: 12px;
+
+	}
+
+
+
+ul.pink a{
+	background:#ffc7ff;
+	color:#333;
+	border-color:#fff #ffb9e8 #ffb9e8 #fff;
+	}
+ul.pink a:hover{
+	background:#f6c;
+	}
+
+ul.azul a{
+	background:#dae3f6;
+	color:#333;
+	border-color:#fff #5882d5 #5882d5 #fff;
+	}
+ul.azul a:hover{
+	background:#36c;
+	}
+
+ul.lara a{
+	background:#ffecd1;
+	color:#039;
+	border-color:#fff #ffac2e #ffac2e #fff;
+	}
+ul.lara a:hover{
+	background:#f90;
+	}
+	
+ul.most a{
+	background:#f6f6e8;
+	color:#333;
+	border-color:#fff #acac2e #acac2e #fff;
+	}
+ul.most a:hover {
+	background:#990;
+	} 
+ul a:visited {
+	color:#999;
+	} 

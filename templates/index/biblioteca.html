@@ -1,0 +1,47 @@
+{% extends "../base.html" %}
+
+{% block content %}
+<div class="background">
+    <br/>
+    <table width="100%">
+        <tr>
+            <td valign="top">
+                <table width="100%">
+                    <tr>
+                        <th class="titulo" colspan="2">Título</th>
+                        <th class="titulo">Autor</th>
+                        <th class="titulo">Data Publicação</th>
+                    </tr>
+                    {% for item in items %}
+                    <tr>
+                        <td class="linha">
+                            <a target="_new" href="{{item.link}}">
+                                <img border="0" src="/static/imagens/fileopen.png" title="Baixar arquivo">
+                            </a>
+                        </td>
+                        <td class="linha" align="center" width="60%">
+                            <a target="_new" href="{{item.link}}">
+                                <strong>
+                                    {{item.title}}
+                                </strong>
+                            </a>
+                        </td>
+
+                        <td class="linha" align="center">
+                            {{item.description}}
+                        </td>
+                        <td class="linha" align="center">
+                            {{item.pubDate}}
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </table>
+                <hr style="color:blue;">
+            </td>
+        </tr>
+    </table>
+    <br/>
+    <br/>
+    <br/>
+</div>
+{%endblock %}
